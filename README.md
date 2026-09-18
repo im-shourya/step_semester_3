@@ -1,3 +1,14 @@
+## Date: 19-09-2026
+**Today's Work:**
+- Solved Category A problems for Week 4 (Constructors, this, final, static block, instanceof) in feature/session_4 branch.
+- Created classes: FoodOrder, DeliverySlot, Canteen, SurgeFeeCalculator, and DeliveryAccount/PremiumDeliveryAccount with ReconciliationEngine.
+
+**Next Session Plan:**
+- Proceed with next session assignments as instructed.
+
+**Issues Faced:**
+- None
+---
 ## Date: 29-08-2026
 **Today's Work:**
 - Solved Category A problems for Week 3 (OOP Homework Assignment) in feature/session_3 branch.
