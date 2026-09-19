@@ -1,5 +1,16 @@
 ## Date: 19-09-2026
 **Today's Work:**
+- Solved Category A problems for Week 6 (Inheritance & Polymorphism) in feature/session_6 branch.
+- Created classes: RaceEntry, RunnerEntry, EliteRunnerEntry, RelayTeamEntry and RaceDesk.
+
+**Next Session Plan:**
+- Proceed with next session assignments as instructed.
+
+**Issues Faced:**
+- None
+---
+## Date: 19-09-2026
+**Today's Work:**
 - Solved Category A problems for Week 5 (Access Modifiers & Encapsulation) in feature/session_5 branch.
 - Created classes: AccessChecker, LibraryMember, PremiumLibraryMember, BookInventory, JavaBean LibraryMember, LoanReceipt/ReferenceOnlyLoanReceipt and CirculationLedger.
 
