@@ -1,5 +1,16 @@
 ## Date: 29-10-2026
 **Today's Work:**
+- Solved Category A coding assignment for Week 8 (OOP Design: classes, relationships, multiplicities, state) in feature/session_8 branch.
+- Built five systems in separate packages: hackathon judging desk, SwiftShip parcel tracker, smart lab control panel, elective seat rush and canteen smart card.
+
+**Next Session Plan:**
+- Solve the Data Structures coding assignment (prefix sums, sliding window, hashing, binary search).
+
+**Issues Faced:**
+- Fragile shipping reuses the Standard charge through composition instead of inheritance, and the smart card derives its balance from the transaction list so the invariant always holds.
+---
+## Date: 29-10-2026
+**Today's Work:**
 - Solved Category A problems for Week 7 (Abstraction & Interfaces) in feature/session_7 branch.
 - Created abstract classes Shape, ServiceableVehicle, GameCharacter, HomeDevice and interfaces Exportable, Insurable, Attackable, Defendable, RemoteControllable, EnergyTrackable with their implementing classes.
 
