@@ -1,3 +1,14 @@
+## Date: 29-10-2026
+**Today's Work:**
+- Solved Category A problems for Week 7 (Abstraction & Interfaces) in feature/session_7 branch.
+- Created abstract classes Shape, ServiceableVehicle, GameCharacter, HomeDevice and interfaces Exportable, Insurable, Attackable, Defendable, RemoteControllable, EnergyTrackable with their implementing classes.
+
+**Next Session Plan:**
+- Proceed with next session assignments as instructed.
+
+**Issues Faced:**
+- A circle and a square cannot stretch unevenly, so scale(xFactor, yFactor) grows them by the average of both factors.
+---
 ## Date: 19-09-2026
 **Today's Work:**
 - Solved Category A problems for Week 6 (Inheritance & Polymorphism) in feature/session_6 branch.
